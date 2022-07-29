@@ -1,0 +1,19 @@
+body
+{
+    background-size: cover;
+    text-align: center;
+}
+
+#redirect
+{
+    width:240px;
+   border-radius: 10px;
+   background-color: darkcyan;
+   color: white;
+   font-size: 30px;
+}
+
+b
+{
+    font-size: 50px;
+}
